@@ -9,7 +9,7 @@ vs2015 + gtest 1.7.0
 
 # 工程截图
 
-![](./images/01.png)
+![](./images/01.PNG)
 
 
 其中Cal是个类
@@ -64,4 +64,4 @@ TEST_F(MyTestClass, test_sub)
 ---
 
 # 运行截图
-![](./images/02.png)
+![](./images/02.PNG)
