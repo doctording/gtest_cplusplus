@@ -15,4 +15,5 @@ http://blog.csdn.net/qq_26437925/article/details/68947498
 * 使用 HelloWorldTest 来测试 HelloWorld，利用Mock
 
 make后的运行截图
-![](./imgs/01.png)
+
+![](../gmock/imgs/01.png)
